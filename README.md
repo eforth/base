@@ -4,7 +4,7 @@
 
 ## Screenshots
 
-<img alt="" src="https://github.com/eforth/base/blob/master/screenshots/screenshot_1582756200.png" width="320">
+<img alt="" src="https://github.com/eforth/base/blob/master/screenshots/Screenshot_1582756200.png" width="320">
 
 ## Stay in touch
 
