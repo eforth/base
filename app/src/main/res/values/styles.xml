@@ -1,0 +1,16 @@
+<resources>
+
+    <style name="BaseTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@android:color/black</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:colorBackground">@android:color/black</item>
+        <item name="android:statusBarColor">@android:color/black</item>
+    </style>
+
+    <style name="BaseTheme.Launcher">
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="colorPrimaryDark">@android:color/white</item>
+    </style>
+
+</resources>
